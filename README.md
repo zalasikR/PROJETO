@@ -13,7 +13,7 @@ Esse é um dos projetos desenvolvidos em aula na formação Full-Stack da Rocket
 
 
 <p align="center">
-  <img alt="Preview do Projeto" src="assets/main-image.jpg" width="100%">
+  <img alt="Preview do Projeto" src="assets/final.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
